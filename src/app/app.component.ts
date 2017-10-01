@@ -64,7 +64,7 @@ import * as xml2js from 'xml2js'
 })
 export class AppComponent {
 
-    id = 'XXXXXXXXXX'
+    id = 'XXXXXXXXXXXX'
     url = '/FR/aviation/serveur_donnees.jsp'
     title = 'Aeroweb'
 
