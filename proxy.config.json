@@ -1,0 +1,8 @@
+{
+    "/FR/aviation": {
+            "target": "http://aviation.meteo.fr",
+            "secure": false,
+            "changeOrigin": true,            
+            "logLevel": "debug"
+  }
+}
